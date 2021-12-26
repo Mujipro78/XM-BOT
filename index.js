@@ -867,10 +867,10 @@ if (isBan) return reply(mess.ban)
 const assalamualaikum = fs.readFileSync('media/assalamualaikum.mp3')
                     Haikal.sendMessage(from, assalamualaikum, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-if (budy.startsWith('Hore')){
+if (budy.startsWith('Ngeri')){
 if (isBan) return reply(mess.ban)
-const keren = fs.readFileSync('media/keren.mp3')
-                    Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
+const Ngeri = fs.readFileSync('media/ngeri.mp3')
+                    Haikal.sendMessage(from, ngeri, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
 if (budy.startsWith('BENAR')){
 if (isBan) return reply(mess.ban)
@@ -902,10 +902,10 @@ const asw = fs.readFileSync('media/asw.mp3')
 const kasian = fs.readFileSync('media/kasian.mp3')
                     Haikal.sendMessage(from, kasian, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-                    if (budy.startsWith('Keren')){
+                    if (budy.startsWith('Anjir')){
                     if (isBan) return reply(mess.ban)
-const keren = fs.readFileSync('media/keren.mp3')
-                    Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
+const anjir = fs.readFileSync('media/anjir.mp3')
+                    Haikal.sendMessage(from, anjir, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
                     if (budy.startsWith('Kesel')){
                     if (isBan) return reply(mess.ban)
