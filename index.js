@@ -877,11 +877,6 @@ if (isBan) return reply(mess.ban)
 const keren = fs.readFileSync('media/keren.mp3')
                     Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
-    if (budy.startsWith('Apa')){
-    if (isBan) return reply(mess.ban)
-const apa = fs.readFileSync('media/apa.mp3')
-                    Haikal.sendMessage(from, apa, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
-                    }
                     if (budy.startsWith('Apaan')){
                     if (isBan) return reply(mess.ban)
 const apaan = fs.readFileSync('media/apaan.mp3')
