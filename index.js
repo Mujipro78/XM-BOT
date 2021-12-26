@@ -869,7 +869,7 @@ const assalamualaikum = fs.readFileSync('media/assalamualaikum.mp3')
                     }
 if (budy.startsWith('Ngeri')){
 if (isBan) return reply(mess.ban)
-const Ngeri = fs.readFileSync('media/ngeri.mp3')
+const ngeri = fs.readFileSync('media/ngeri.mp3')
                     Haikal.sendMessage(from, ngeri, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
                     }
 if (budy.startsWith('BENAR')){
