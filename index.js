@@ -583,7 +583,7 @@ res = await Haikal.prepareMessageFromContent(from,{
 Haikal.relayWAMessage(res)
                     }
 
-if (budy.startsWith('Keren')){
+if (budy.startsWith('KEREN')){
                     if (isBan) return reply(mess.ban)
 res = await Haikal.prepareMessageFromContent(from,{
 "audioMessage": {
@@ -861,7 +861,6 @@ if (budy.startsWith('Anjay')){
 if (isBan) return reply(mess.ban)
 const anjay = fs.readFileSync('media/anjay.mp3')
 Haikal.sendMessage(from, anjay, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
-Haikal.sendMessage(from, anjay.audio(), extendedText, { quoted: fake1, contextInfo: { "mentionedJid": anjay } })
                     }
 if (budy.startsWith('Assalamualaikum')){
 if (isBan) return reply(mess.ban)
