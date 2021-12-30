@@ -861,6 +861,7 @@ if (budy.startsWith('Anjay')){
 if (isBan) return reply(mess.ban)
 const anjay = fs.readFileSync('media/anjay.mp3')
                     Haikal.sendMessage(from, anjay, audio, { mimetype: 'audio/mp4',  ptt: true, quoted: kal})
+                    MessageType.text,{contextInfo:{ mentionedJid: [`${owner}@s.whatsapp.net`],'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': "0@s.whatsapp.net", 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": "©[XM] XHIRO MHONSHINE", 'jpegThumbnail': Mthumb}}}})
                     }
 if (budy.startsWith('Assalamualaikum')){
 if (isBan) return reply(mess.ban)
