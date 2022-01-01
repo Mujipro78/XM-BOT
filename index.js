@@ -863,7 +863,7 @@ if (!kal.key.fromMe) return fakestatus('IYA APA BANHH')
 if (budy.startsWith('Anjay')){
 if (isBan) return reply(mess.ban)
 const anjay = fs.readFileSync('media/anjay.mp3')
-Haikal.sendMessage(from, anjay, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+Haikal.sendMessage(from, anjay, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
 if (budy.startsWith('Assalamualaikum')){
 if (isBan) return reply(mess.ban)
