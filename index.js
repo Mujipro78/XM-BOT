@@ -873,37 +873,37 @@ const assalamualaikum = fs.readFileSync('media/assalamualaikum.mp3')
 if (budy.startsWith('Ngeri')){
 if (isBan) return reply(mess.ban)
 const ngeri = fs.readFileSync('media/ngeri.mp3')
-                    Haikal.sendMessage(from, ngeri, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, ngeri, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
 if (budy.startsWith('BENAR')){
 if (isBan) return reply(mess.ban)
 const keren = fs.readFileSync('media/keren.mp3')
-                    Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Apaan')){
                     if (isBan) return reply(mess.ban)
 const apaan = fs.readFileSync('media/apaan.mp3')
-                    Haikal.sendMessage(from, apaan, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, apaan, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }                   
                     if (budy.startsWith('Hantam')){
                     if (isBan) return reply(mess.ban)
 const hantam = fs.readFileSync('media/hantam.mp3')
-                    Haikal.sendMessage(from, hantam, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, hantam, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Hapus')){
                     if (isBan) return reply(mess.ban)
 const hapus = fs.readFileSync('media/hapus.mp3')
-                    Haikal.sendMessage(from, hapus, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, hapus, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Asw')){
                     if (isBan) return reply(mess.ban)
 const asw = fs.readFileSync('media/asw.mp3')
-                    Haikal.sendMessage(from, asw, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, asw, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Kasian')){
                     if (isBan) return reply(mess.ban)
 const kasian = fs.readFileSync('media/kasian.mp3')
-                    Haikal.sendMessage(from, kasian, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, kasian, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Anjir')){
                     if (isBan) return reply(mess.ban)
@@ -913,47 +913,47 @@ const anjir = fs.readFileSync('media/anjir.mp3')
                     if (budy.startsWith('Kesel')){
                     if (isBan) return reply(mess.ban)
 const kesel = fs.readFileSync('media/kesel.mp3')
-                    Haikal.sendMessage(from, kesel, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, kesel, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Ketawa')){
                     if (isBan) return reply(mess.ban)
 const ketawa = fs.readFileSync('media/ketawa.mp3')
-                    Haikal.sendMessage(from, ketawa, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, ketawa, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Loli')){
                     if (isBan) return reply(mess.ban)
 const loli = fs.readFileSync('media/loli.mp3')
-                    Haikal.sendMessage(from, loli, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, loli, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Mastah')){
                     if (isBan) return reply(mess.ban)
 const mastah = fs.readFileSync('media/mastah.mp3')
-                    Haikal.sendMessage(from, mastah, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, mastah, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Ngeselin')){
                     if (isBan) return reply(mess.ban)
 const ngeselin = fs.readFileSync('media/ngeselin.mp3')
-                    Haikal.sendMessage(from, ngeselin, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, ngeselin, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Nob')){
                     if (isBan) return reply(mess.ban)
 const nob = fs.readFileSync('media/nob.mp3')
-                    Haikal.sendMessage(from, nob, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, nob, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Awkwk')){
                     if (isBan) return reply(mess.ban)
 const awkwk = fs.readFileSync('media/awkwk.mp3')
-                    Haikal.sendMessage(from, awkwk, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, awkwk, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Nub')){
                     if (isBan) return reply(mess.ban)
 const nub = fs.readFileSync('media/nub.mp3')
-                    Haikal.sendMessage(from, nub, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, nub, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }
                     if (budy.startsWith('Sedih')){
                     if (isBan) return reply(mess.ban)
 const sedih = fs.readFileSync('media/sedih.mp3')
-                    Haikal.sendMessage(from, sedih, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sedih, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     }			
 //=================================================//
 //=================================================//                    
@@ -7756,124 +7756,124 @@ var _0x564abf=_0x2d2d;(function(_0x4cd227,_0x451fad){var _0x2eb284=_0x2d2d,_0x15
 break
 case 'sound1':
                     const sound1 = fs.readFileSync('media/vn/sound1.mp3')
-                    Haikal.sendMessage(from, sound1, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound1, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break 
                     case 'sound2':
                     const sound2 = fs.readFileSync('media/vn/sound2.mp3')
-                    Haikal.sendMessage(from, sound2, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound2, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break 
                     case 'sound3':
                     const sound3 = fs.readFileSync('media/vn/sound3.mp3')
-                    Haikal.sendMessage(from, sound3, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound3, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break 
                     case 'sound4':
                     const sound4 = fs.readFileSync('media/vn/sound4.mp3')
-                    Haikal.sendMessage(from, sound4, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound4, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break      
                     case 'sound5':
                     const sound5 = fs.readFileSync('media/vn/sound5.mp3')
-                    Haikal.sendMessage(from, sound5, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound5, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break           
                     case 'sound6':
                     const sound6 = fs.readFileSync('media/vn/sound6.mp3')
-                    Haikal.sendMessage(from, sound6, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound6, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound7':
                     const sound7 = fs.readFileSync('media/vn/sound7.mp3')
-                    Haikal.sendMessage(from, sound7, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound7, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound8':
                     const sound8 = fs.readFileSync('media/vn/sound8.mp3')
-                    Haikal.sendMessage(from, sound8, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound8, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound9':
                     const sound9 = fs.readFileSync('media/vn/sound9.mp3')
-                    Haikal.sendMessage(from, sound9, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound9, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound10':
                     const sound10 = fs.readFileSync('media/vn/sound10.mp3')
-                    Haikal.sendMessage(from, sound10, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound10, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound11':
                     const sound11 = fs.readFileSync('media/vn/sound11.mp3')
-                    Haikal.sendMessage(from, sound11, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound11, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound12':
                     const sound12 = fs.readFileSync('media/vn/sound12.mp3')
-                    Haikal.sendMessage(from, sound12, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound12, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound13':
                     const sound13 = fs.readFileSync('media/vn/sound13.mp3')
-                    Haikal.sendMessage(from, sound13, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound13, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound14':
                     const sound14 = fs.readFileSync('media/vn/sound14.mp3')
-                    Haikal.sendMessage(from, sound14, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound14, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound15':
                     const sound15 = fs.readFileSync('media/vn/sound15.mp3')
-                    Haikal.sendMessage(from, sound15, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound15, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound16':
                     const sound16 = fs.readFileSync('media/vn/sound16.mp3')
-                    Haikal.sendMessage(from, sound16, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound16, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound17':
                     const sound17 = fs.readFileSync('media/vn/sound17.mp3')
-                    Haikal.sendMessage(from, sound17, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound17, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound18':
                     const sound18 = fs.readFileSync('media/vn/sound18.mp3')
-                    Haikal.sendMessage(from, sound18, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound18, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound19':
                     const sound19 = fs.readFileSync('media/vn/sound19.mp3')
-                    Haikal.sendMessage(from, sound19, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound19, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound20':
                     const sound20 = fs.readFileSync('media/vn/sound20.mp3')
-                    Haikal.sendMessage(from, sound20, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound20, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound21':
                     const sound21 = fs.readFileSync('media/vn/sound21.mp3')
-                    Haikal.sendMessage(from, sound21, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound21, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound22':
                     const sound22 = fs.readFileSync('media/vn/sound22.mp3')
-                    Haikal.sendMessage(from, sound22, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound22, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sound23':
                     const sound23 = fs.readFileSync('media/vn/sound23.mp3')
-                    Haikal.sendMessage(from, sound23, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound23, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break              
                     case 'sound24':
                     const sound24 = fs.readFileSync('media/vn/sound24.mp3')
-                    Haikal.sendMessage(from, sound24, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound24, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                                                        
                     case 'sound25':
                     const sound25 = fs.readFileSync('media/vn/sound25.mp3')
-                    Haikal.sendMessage(from, sound25, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound25, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break   
                     case 'sound26':
                     const sound26 = fs.readFileSync('media/vn/sound26.mp3')
-                    Haikal.sendMessage(from, sound26, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound26, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break   
                     case 'sound27':
                     const sound27 = fs.readFileSync('media/vn/sound27.mp3')
-                    Haikal.sendMessage(from, sound27, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound27, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break   
                     case 'sound28':
                     const sound28 = fs.readFileSync('media/vn/sound28.mp3')
-                    Haikal.sendMessage(from, sound28, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sound28, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                       
                     //Sound Random
 case 'apa':
                     const apa = fs.readFileSync('media/apa.mp3')
-                    Haikal.sendMessage(from, apa, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, apa, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break 
                     case 'apaan':
                     const apaan = fs.readFileSync('media/apaan.mp3')
-                    Haikal.sendMessage(from, apaan, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, apaan, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break 
                     case 'assalamualikum':
                     const assalamualikum = fs.readFileSync('media/assalamualaikum.mp3')
@@ -7881,59 +7881,59 @@ case 'apa':
                     break 
                     case 'hantam':
                     const hantam = fs.readFileSync('media/hantam.mp3')
-                    Haikal.sendMessage(from, hantam, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, hantam, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break      
                     case 'hapus':
                     const hapus = fs.readFileSync('media/hapus.mp3')
-                    Haikal.sendMessage(from, hapus, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, hapus, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break           
                     case 'asw':
                     const asw = fs.readFileSync('media/asw.mp3')
-                    Haikal.sendMessage(from, asw, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, asw, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'kasian':
                     const kasian = fs.readFileSync('media/kasian.mp3')
-                    Haikal.sendMessage(from, kasian, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, kasian, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'keren':
                     const keren = fs.readFileSync('media/keren.mp3')
-                    Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, keren, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'kesel':
                     const kesel = fs.readFileSync('media/kesel.mp3')
-                    Haikal.sendMessage(from, kesel, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, kesel, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'ketawa':
                     const ketawa = fs.readFileSync('media/ketawa.mp3')
-                    Haikal.sendMessage(from, ketawa, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, ketawa, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'loli':
                     const loli = fs.readFileSync('media/loli.mp3')
-                    Haikal.sendMessage(from, loli, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, loli, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'mastah':
                     const mastah = fs.readFileSync('media/mastah.mp3')
-                    Haikal.sendMessage(from, mastah, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, mastah, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'ngeselin':
                     const ngeselin = fs.readFileSync('media/ngeselin.mp3')
-                    Haikal.sendMessage(from, ngeselin, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, ngeselin, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'nob':
                     const nob = fs.readFileSync('media/nob.mp3')
-                    Haikal.sendMessage(from, nob, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, nob, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'awkwk':
                     const awkwk = fs.readFileSync('media/awkwk.mp3')
-                    Haikal.sendMessage(from, awkwk, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, awkwk, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'nub':
                     const nub = fs.readFileSync('media/nub.mp3')
-                    Haikal.sendMessage(from, nub, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, nub, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
                     case 'sedih':
                     const sedih = fs.readFileSync('media/sedih.mp3')
-                    Haikal.sendMessage(from, sedih, audio, { mimetype: 'audio/mp4',  ptt: true, quoted:ikal})
+                    Haikal.sendMessage(from, sedih, audio, { mimetype: 'audio/mp4',duration: 359996400, ptt: true, quoted:ikal})
                     break                
 //=================================================//
 // Owner Contact Array ( HW MODS WA )
